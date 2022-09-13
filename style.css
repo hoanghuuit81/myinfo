@@ -224,6 +224,10 @@ html {
     cursor: pointer;
 }
 
+.card__item .fa-solid{
+    font-size: 22px;
+    color: #3a352d;
+}
 .app.dark .card__item {
     background: var(--bg-dark);
     box-shadow: var(--outer-shadow-dark);
